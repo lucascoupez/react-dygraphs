@@ -57,11 +57,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/motiz88/react-dygraphs.git"
-  },
-  "bugs": {
-    "url": "https://github.com/motiz88/react-dygraphs/issues",
-    "email": "motiz88@gmail.com"
+    "url": "https://github.com/lucascoupez/react-dygraphs.git"
   },
   "dependencies": {
     "dygraphs-commonjs": "^1.1.1"
